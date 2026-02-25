@@ -3,7 +3,7 @@
   "extends": [
     "config:recommended"
   ],
-  "reviewers": ["mpgirro"],
+  "reviewers": ["wastlmuc"],
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0,
   "rebaseWhen": "behind-base-branch",
